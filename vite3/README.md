@@ -8,4 +8,4 @@ vite + sideEffects: false
 3. npm run build
 
 ## Result
-![image](images/2023-08-11-092541.jpg "image")
+![image](images/vite3-result.jpg "image")
